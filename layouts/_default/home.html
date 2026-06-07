@@ -1,0 +1,13 @@
+<h1>{{ site.Data.person.name }}</h1>
+
+<p>{{ site.Data.person.role }}</p>
+
+<p>Email: {{ site.Data.person.email }}</p>
+
+<h2>Skills</h2>
+
+<ul>
+{{ range site.Data.person.skills }}
+  <li>{{ . }}</li>
+{{ end }}
+</ul>

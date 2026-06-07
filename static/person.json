@@ -1,0 +1,14 @@
+{
+  "name": "Dani",
+  "company": "Spark-Y",
+  "role": "Generalist Technologist",
+  "phone": "612-369-6525",
+  "email": "Dani@ALifeLivedFully.com",
+  "website": "ALifeLivedFully.com",
+  "skills": [
+    "Linux",
+    "NixOS",
+    "Python",
+    "HTML"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dani",
+  "title": "Generalist Technologist",
+  "email": "dani@example.com",
+  "skills": [
+    "Linux",
+    "NixOS",
+    "Python",
+    "HTML"
+  ]
+}
