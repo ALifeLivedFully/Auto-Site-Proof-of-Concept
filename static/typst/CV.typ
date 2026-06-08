@@ -1,4 +1,4 @@
-#let person = json("../data/person.json")
+#let person = json("../../data/person.json")
 
 = #person.name
 
